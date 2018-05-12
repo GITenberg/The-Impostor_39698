@@ -1,0 +1,28 @@
+_repo: The-Impostor_39698
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: ''
+gutenberg_issued: '2012-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Impostors and imposture -- Fiction'
+title: The Impostor
+url: http://www.gutenberg.org/ebooks/39698
